@@ -1,3 +1,8 @@
-# Welcome to my blog
+# Bernard's Bizarre Food Adventure
 
-I'm glad you are here. I plan to talk about ...
+Here I will list the foods I have eaten
+* Pizza
+* Hamburbur
+* Hotdoggo
+* Sushi
+* Burrito
